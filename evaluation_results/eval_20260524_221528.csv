@@ -1,0 +1,4 @@
+model_id,model_label,scenario,scenario_label,is_attack,total_inferences,repetitions,tp_count,fn_count,fp_count,tn_count,detection_rate,false_positive_rate,syntax_validity_rate,ip_accuracy_rate,event_accuracy_rate,avg_inference_ms,min_inference_ms,max_inference_ms,std_inference_ms
+A_lightweight,"Lightweight (r=8, α=16, 1 epoch)",botnet,Botnet C2 Communication (Asprox),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,5662.08,4925.14,8123.66,1124.56
+B_balanced,"Balanced (r=16, α=32, 2 epoch)",botnet,Botnet C2 Communication (Asprox),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,5560.13,4877.98,8121.45,1100.14
+C_deep,"Deep (r=32, α=64, 3 epoch)",botnet,Botnet C2 Communication (Asprox),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,6947.24,5104.84,12071.01,1793.26

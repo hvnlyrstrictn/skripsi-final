@@ -1,0 +1,39 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2026-03-15-16-28-39
+#fields	ts	fuid	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	string	addr	port	addr	port	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1773566849.437898	FxSsVxIer3uDV3Tcf	CjoXJXAI2D5e4U0xd	192.168.1.20	38878	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566849.459176	FywmmY1fqa1SceYkt	C3056l1Qp8Ew4ylwT9	192.168.1.20	38886	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566849.477530	FHViRw3SvgGCrY6cc2	CtmBnd1UHlC48oQ1w9	192.168.1.20	38888	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566850.507101	FslYTg1cabOa1HOsfl	Ck7Gsdwpo8a5dyIqf	192.168.1.20	38890	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566850.530414	FCTcaA3ILzyHrmmGAb	CmLsRg1fhqvEGf1XNe	192.168.1.20	38894	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566850.554073	Fdmzaj1rRVaywklqa4	CD8njr10eGzkkThiu7	192.168.1.20	38896	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566851.581924	FNVtbq4bRVqDJ5163c	CFBDLXGIAhNJVD1zh	192.168.1.20	38898	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566851.603722	Fu8T503eNMZ960gcIj	Ccypfm4NaKpjvVGCEc	192.168.1.20	38912	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566851.618015	FlcEjV2sr2qKO2jne2	CrP9Rm1rrQpi60wXyf	192.168.1.20	38918	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566852.646958	FYYWbF1jmrXGPJRm1l	CtYrFr3DHs6VEctUWd	192.168.1.20	38928	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566852.673714	Ff5eQ12CBChc4YcHxe	C7kgw98WOomL6HFf8	192.168.1.20	38934	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566852.690110	FYICsj1Hz8sl7aDlic	CGToEpXiQc7157bsb	192.168.1.20	38950	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566853.718685	FOLWPA3TAE9lh8DYsh	CovGvS2JGR5MTx6Y7l	192.168.1.20	38952	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566853.750463	FyWuta37BCL4vFg8y	CAadQR2ihARoa3ALl6	192.168.1.20	38954	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566853.770503	FBrxcgXW6hsRXtrNd	CmEdQMOJBpH0G6dif	192.168.1.20	38956	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566854.800215	FM0bbh4PJylPDEd3ih	CMKPR6AmxxXOtc7h3	192.168.1.20	38958	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566854.822145	FG13MwJewkT4ttj48	CG8lDA2Hf58fFuhe47	192.168.1.20	38970	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566854.837636	FlisMPoOPU9fFpu71	CPQgjyD0HmNU2eiv	192.168.1.20	38982	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566855.864681	FeuhZQ26nGVrJYgqua	Cm8nnT2aUauz4zTZC9	192.168.1.20	38998	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566855.886590	Fx6RDF341I35pH3rXb	Cdnj7H2apdLMfC1c3f	192.168.1.20	39004	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566855.902487	FRAvOJ1sDWH205dUf3	CtqQNK21jTqkGxPgB	192.168.1.20	39008	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566856.929859	F0LWsd2yaaH9Qpsm6g	CHFOIL28HIF8kCLCP2	192.168.1.20	39024	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566856.955567	FBRhuI3qNPWrH2iuJ6	CNyUNr2ZZrYB3dxGG8	192.168.1.20	39036	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566856.975952	F0lY0G4BX1t4R4uYG6	CaruZM24Zs5Cotbbgk	192.168.1.20	39040	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566857.997403	F7J4tc2lqmmoBKU12c	CqBOdB3KFLwjGYHOY2	192.168.1.20	40200	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566858.029912	FtWPUC1L2sTvslHuoj	CDTHAz2z0IjO5fte7d	192.168.1.20	40216	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566858.054593	FEpU2y4PNBNfyMql2d	Cvjt3N3M4SIjmHfV3a	192.168.1.20	40222	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566859.086101	FxalLr3n9QalQgELt9	CS3EK13AyFpjGNNgs1	192.168.1.20	40224	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566859.110161	FytnUQ1ehjxg5P5ri	CCsCnSyEeKlYG84y8	192.168.1.20	40228	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+1773566859.127720	FHHkrj3rE4rECBcI46	CoQUat1ik9N0CCZ3Fk	192.168.1.20	40240	192.168.1.10	8080	HTTP	0	(empty)	text/html	-	0.000000	T	F	335	335	0	0	F	-	-	-	-	-	-	-
+#close	2026-03-15-16-28-39

@@ -1,0 +1,4 @@
+model_id,model_label,scenario,scenario_label,is_attack,total_inferences,repetitions,tp_count,fn_count,fp_count,tn_count,detection_rate,false_positive_rate,syntax_validity_rate,ip_accuracy_rate,event_accuracy_rate,avg_inference_ms,min_inference_ms,max_inference_ms,std_inference_ms
+A_lightweight,"Lightweight (r=8, α=16, 1 epoch)",benign,Benign Traffic (False Positive Test),False,30,10,0,0,0,30,,0.0,100.0,0.0,100.0,2233.32,2044.58,3518.22,400.84
+B_balanced,"Balanced (r=16, α=32, 2 epoch)",benign,Benign Traffic (False Positive Test),False,30,10,0,0,0,30,,0.0,100.0,0.0,100.0,2194.09,2065.74,3496.69,347.36
+C_deep,"Deep (r=32, α=64, 3 epoch)",benign,Benign Traffic (False Positive Test),False,30,10,0,0,0,30,,0.0,100.0,0.0,100.0,2192.04,2064.54,3481.03,345.39

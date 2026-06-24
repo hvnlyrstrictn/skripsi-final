@@ -1,0 +1,4 @@
+model_id,model_label,scenario,scenario_label,is_attack,total_inferences,repetitions,tp_count,fn_count,fp_count,tn_count,detection_rate,false_positive_rate,syntax_validity_rate,ip_accuracy_rate,event_accuracy_rate,avg_inference_ms,min_inference_ms,max_inference_ms,std_inference_ms
+A_lightweight,"Lightweight (r=8, α=16, 1 epoch)",dos,DoS SYN Flood (Known Attack),True,30,10,10,20,0,0,33.33,,66.67,33.33,100.0,3678.12,1962.01,5170.88,1117.09
+B_balanced,"Balanced (r=16, α=32, 2 epoch)",dos,DoS SYN Flood (Known Attack),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,3289.48,2975.19,3972.01,225.21
+C_deep,"Deep (r=32, α=64, 3 epoch)",dos,DoS SYN Flood (Known Attack),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,3190.86,2884.88,4022.73,258.84

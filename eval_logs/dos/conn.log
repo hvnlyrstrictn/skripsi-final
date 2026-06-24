@@ -1,0 +1,19 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	conn
+#open	2026-03-15-16-23-08
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state	local_orig	local_resp	missed_bytes	history	orig_pkts	orig_ip_bytes	resp_pkts	resp_ip_bytes	tunnel_parents	ip_proto
+#types	time	string	addr	port	addr	port	enum	string	interval	count	count	string	bool	bool	count	string	count	count	count	count	set[string]	count
+1773566525.031417	Cn8To82KZzGBdIBWY3	192.168.1.20	2066	192.168.1.10	80	tcp	-	0.000050	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+1773566526.032755	CLT1uR12DMzYBznXa2	192.168.1.20	2067	192.168.1.10	80	tcp	-	0.000049	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+1773566527.033334	CCoZZs1bQ125RYoI6d	192.168.1.20	2068	192.168.1.10	80	tcp	-	0.000058	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+1773566528.034760	Cln31o4HMPPJQgHxek	192.168.1.20	2069	192.168.1.10	80	tcp	-	0.000053	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+1773566529.036509	CHfzL44AkannzBFkNj	192.168.1.20	2070	192.168.1.10	80	tcp	-	0.000055	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+1773566533.042349	CMD3RO1wsqW8PvkMUk	192.168.1.20	2074	192.168.1.10	80	tcp	-	0.000063	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+1773566534.043929	CFGEw948AcNmG11tSd	192.168.1.20	2075	192.168.1.10	80	tcp	-	0.000054	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+1773566532.041495	Cqf3Ly2X1D7E2khaU6	192.168.1.20	2073	192.168.1.10	80	tcp	-	0.000039	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+1773566531.039530	CoFKQU2Ie1nLDAu951	192.168.1.20	2072	192.168.1.10	80	tcp	-	0.000054	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+1773566530.038536	CSSb5W1wiERwLEkxF4	192.168.1.20	2071	192.168.1.10	80	tcp	-	0.000056	0	0	REJ	T	T	0	Sr	1	40	2	80	-	6
+#close	2026-03-15-16-23-08

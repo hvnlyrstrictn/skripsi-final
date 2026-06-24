@@ -1,0 +1,4 @@
+model_id,model_label,scenario,scenario_label,is_attack,total_inferences,repetitions,tp_count,fn_count,fp_count,tn_count,detection_rate,false_positive_rate,syntax_validity_rate,ip_accuracy_rate,event_accuracy_rate,avg_inference_ms,min_inference_ms,max_inference_ms,std_inference_ms
+A_lightweight,"Lightweight (r=8, α=16, 1 epoch)",bruteforce,Brute Force (Known Attack),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,2578.86,2320.61,3892.55,397.48
+B_balanced,"Balanced (r=16, α=32, 2 epoch)",bruteforce,Brute Force (Known Attack),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,2458.24,2291.09,3635.16,315.58
+C_deep,"Deep (r=32, α=64, 3 epoch)",bruteforce,Brute Force (Known Attack),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,4526.51,4264.88,5880.12,497.95

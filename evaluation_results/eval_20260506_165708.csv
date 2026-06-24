@@ -1,0 +1,4 @@
+model_id,model_label,scenario,scenario_label,is_attack,total_inferences,repetitions,tp_count,fn_count,fp_count,tn_count,detection_rate,false_positive_rate,syntax_validity_rate,ip_accuracy_rate,event_accuracy_rate,avg_inference_ms,min_inference_ms,max_inference_ms,std_inference_ms
+A_lightweight,"Lightweight (r=8, α=16, 1 epoch)",port_scan,Port Scanning (Zero-Day),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,4612.08,3454.42,6506.29,576.92
+B_balanced,"Balanced (r=16, α=32, 2 epoch)",port_scan,Port Scanning (Zero-Day),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,4749.6,3652.14,5309.63,475.66
+C_deep,"Deep (r=32, α=64, 3 epoch)",port_scan,Port Scanning (Zero-Day),True,30,10,30,0,0,0,100.0,,100.0,100.0,100.0,4699.3,3596.66,5245.49,478.06

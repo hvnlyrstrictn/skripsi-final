@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	pe
+#open	2026-05-24-22-09-24
+#fields	ts	id	machine	compile_ts	os	subsystem	is_exe	is_64bit	uses_aslr	uses_dep	uses_code_integrity	uses_seh	has_import_table	has_export_table	has_cert_table	has_debug_data	section_names
+#types	time	string	string	time	string	string	bool	bool	bool	bool	bool	bool	bool	bool	bool	bool	vector[string]
+1418319852.517524	Fy2dhw1XmzrVD9yOZa	I386	1416419840.000000	unknown-1.7	WINDOWS_GUI	T	T	F	F	F	T	T	T	T	F	\x97\x01ext,.rdata,\x0adata,.idata,\x01rsrc,\x01 eloc
+#close	2026-05-24-22-09-24

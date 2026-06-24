@@ -1,0 +1,31 @@
+# Model weights - terlalu besar
+ablation_results/
+lora_model_real/
+unsloth_compiled_cache/
+
+# Log mentah di root
+*.log
+*.pcap
+*.pcapng
+
+# Dataset besar
+dataset_finetune_v3.jsonl
+dataset_finetune_final.jsonl
+
+# File berbahaya
+*.exe
+*.dll
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Izinkan eval_logs meski isinya .log
+!eval_logs/
+!eval_logs/**
